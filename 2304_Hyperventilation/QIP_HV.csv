@@ -1,0 +1,541 @@
+Code,Date,Age,Referral Q ,?Absences mentioned,Hyperventilation,Photic,Non-IED abnormality,IEDs,Seizure,Non-epileptic clinical event
+HV19-001,01/10/2019,50.43,2 -  ?focal epilepsy,0,1,1,1,0,0,0
+HV19-002,01/10/2019,0.39,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-003,01/10/2019,31.05,1 - ?epilepsy (not otherwise specified),0,1,0,0,0,0,1
+HV19-004,01/10/2019,73.58,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-005,01/10/2019,2.16,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-006,01/10/2019,9.58,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-007,01/10/2019,18.47,4 - ?characterise known epilepsy,0,1,1,0,2,0,0
+HV19-008,01/10/2019,23.83,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-009,01/10/2019,13.81,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-010,02/10/2019,5.86,5 - unclear/not specified,0,1,1,0,0,0,0
+HV19-011,02/10/2019,59.14,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV19-012,02/10/2019,2.07,3 - ?generalised epilepsy,1,1,1,0,0,0,0
+HV19-013,02/10/2019,73.55,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV19-014,02/10/2019,52.69,5 - unclear/not specified,0,0,1,0,0,0,0
+HV19-015,02/10/2019,25.28,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-016,02/10/2019,83.64,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV19-017,02/10/2019,2.03,5 - unclear/not specified,0,1,1,0,0,0,0
+HV19-018,02/10/2019,18.79,5 - unclear/not specified,0,1,1,0,0,0,0
+HV19-019,02/10/2019,26.92,2 -  ?focal epilepsy,0,1,1,0,0,0,1
+HV19-020,02/10/2019,5.95,3 - ?generalised epilepsy,1,-,-,-,-,-,-
+HV19-021,03/10/2019,25.3,3 - ?generalised epilepsy,0,1,1,0,0,0,0
+HV19-022,03/10/2019,41.79,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-023,03/10/2019,31.91,3 - ?generalised epilepsy,0,1,1,0,0,0,0
+HV19-024,03/10/2019,42.79,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-025,03/10/2019,60.48,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV19-026,03/10/2019,30.79,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV19-027,03/10/2019,2.81,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-028,03/10/2019,34.36,3 - ?generalised epilepsy,0,1,1,0,2,0,0
+HV19-029,03/10/2019,29.67,4 - ?characterise known epilepsy,1,1,1,0,0,0,0
+HV19-030,03/10/2019,55.04,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-031,03/10/2019,53.89,1 - ?epilepsy (not otherwise specified),1,0,1,0,0,0,0
+HV19-032,04/10/2019,27.09,4 - ?characterise known epilepsy,0,1,1,1,1,0,0
+HV19-033,04/10/2019,37.97,4 - ?characterise known epilepsy,0,0,1,1,0,1,0
+HV19-034,04/10/2019,19.83,1 - ?epilepsy (not otherwise specified),0,1,1,1,2,0,0
+HV19-035,04/10/2019,28.27,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-036,04/10/2019,40.7,1 - ?epilepsy (not otherwise specified),0,1,1,1,0,0,0
+HV19-037,04/10/2019,46.88,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV19-038,07/10/2019,71.81,5 - unclear/not specified,0,0,1,0,0,0,0
+HV19-039,07/10/2019,54.43,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-040,07/10/2019,37.53,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-041,07/10/2019,56.21,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-042,07/10/2019,79.01,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-043,07/10/2019,37.28,4 - ?characterise known epilepsy,1,0,1,0,0,0,0
+HV19-044,07/10/2019,27.7,1 - ?epilepsy (not otherwise specified),0,1,1,0,1,0,0
+HV19-045,07/10/2019,7.99,1 - ?epilepsy (not otherwise specified),0,1,1,0,1,0,0
+HV19-046,07/10/2019,13.74,1 - ?epilepsy (not otherwise specified),0,1,1,0,2,0,0
+HV19-047,07/10/2019,33.55,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV19-048,07/10/2019,61.55,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV19-049,07/10/2019,4.89,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-050,07/10/2019,39.07,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-051,08/10/2019,21.47,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-052,08/10/2019,20.9,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-053,08/10/2019,64.46,4 - ?characterise known epilepsy,1,0,1,0,1,0,0
+HV19-054,08/10/2019,21.28,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-055,08/10/2019,68.4,1 - ?epilepsy (not otherwise specified),1,0,1,0,0,0,0
+HV19-056,08/10/2019,48.91,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV19-057,08/10/2019,28.64,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,1
+HV19-058,08/10/2019,32.14,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-059,08/10/2019,5.56,2 -  ?focal epilepsy,0,1,1,0,2,0,0
+HV19-060,08/10/2019,27.27,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-061,08/10/2019,26.34,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-062,08/10/2019,57.98,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-063,08/10/2019,37.84,2 -  ?focal epilepsy,0,0,0,0,0,0,0
+HV19-064,09/10/2019,1.59,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-065,09/10/2019,2.69,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV19-066,09/10/2019,22.35,5 - unclear/not specified,0,1,1,1,0,0,0
+HV19-067,09/10/2019,58.6,4 - ?characterise known epilepsy,0,0,1,1,0,0,0
+HV19-068,09/10/2019,48.68,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-069,09/10/2019,4.81,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-070,09/10/2019,60.33,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-071,09/10/2019,14.59,5 - unclear/not specified,0,1,1,0,1,0,0
+HV19-072,09/10/2019,8.35,1 - ?epilepsy (not otherwise specified),1,1,1,0,1,0,0
+HV19-073,09/10/2019,4.74,2 -  ?focal epilepsy,0,1,1,1,0,0,0
+HV19-074,09/10/2019,59.33,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV19-075,09/10/2019,38.82,2 -  ?focal epilepsy,1,1,1,0,0,0,0
+HV19-076,09/10/2019,23.28,1 - ?epilepsy (not otherwise specified),0,1,1,0,1,0,0
+HV19-077,09/10/2019,10.47,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-078,09/10/2019,33.42,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-079,10/10/2019,48.62,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-080,10/10/2019,66.16,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-081,10/10/2019,68.01,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV19-082,10/10/2019,47.96,2 -  ?focal epilepsy,0,0,0,0,0,0,1
+HV19-083,10/10/2019,46.91,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-084,10/10/2019,68.31,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-085,10/10/2019,54.14,6 - ?abnormal background,0,0,1,0,0,0,0
+HV19-086,10/10/2019,41.71,2 -  ?focal epilepsy,1,-,-,-,-,-,-
+HV19-087,10/10/2019,18,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-088,10/10/2019,63.08,5 - unclear/not specified,0,-,-,-,-,-,-
+HV19-089,11/10/2019,28.57,4 - ?characterise known epilepsy,0,1,1,0,2,0,0
+HV19-090,11/10/2019,26.89,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-091,11/10/2019,73.09,1 - ?epilepsy (not otherwise specified),0,0,0,0,0,0,0
+HV19-092,11/10/2019,1.71,3 - ?generalised epilepsy,1,0,1,0,0,0,0
+HV19-093,11/10/2019,33.96,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-094,11/10/2019,10.49,4 - ?characterise known epilepsy,0,1,1,0,2,0,0
+HV19-095,11/10/2019,47.4,2 -  ?focal epilepsy,1,1,1,0,0,0,0
+HV19-096,11/10/2019,45.71,5 - unclear/not specified,0,1,1,0,0,0,0
+HV19-097,11/10/2019,71.63,6 - ?abnormal background,0,0,1,1,0,0,0
+HV19-098,11/10/2019,47.3,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-099,11/10/2019,34.11,2 -  ?focal epilepsy,0,1,1,0,0,0,1
+HV19-100,14/10/2019,9.74,3 - ?generalised epilepsy,1,1,1,0,0,1,0
+HV19-101,14/10/2019,1.19,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-102,14/10/2019,12.05,3 - ?generalised epilepsy,1,1,1,0,0,0,0
+HV19-103,14/10/2019,56.82,3 - ?generalised epilepsy,1,0,0,1,0,0,0
+HV19-104,14/10/2019,42.73,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV19-105,14/10/2019,53.9,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV19-106,14/10/2019,15.5,4 - ?characterise known epilepsy,0,-,-,-,-,-,-
+HV19-107,14/10/2019,4.93,3 - ?generalised epilepsy,1,1,1,0,0,0,0
+HV19-108,14/10/2019,27.92,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-109,14/10/2019,75.14,1 - ?epilepsy (not otherwise specified),1,0,1,0,0,0,0
+HV19-110,14/10/2019,36.28,2 -  ?focal epilepsy,0,1,1,0,1,0,0
+HV19-111,14/10/2019,3.9,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV19-112,14/10/2019,24.79,4 - ?characterise known epilepsy,0,0,0,0,0,0,0
+HV19-113,14/10/2019,17.71,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-114,14/10/2019,0.85,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-115,14/10/2019,29.19,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-116,14/10/2019,7.08,3 - ?generalised epilepsy,1,1,1,0,0,0,0
+HV19-117,15/10/2019,78.38,2 -  ?focal epilepsy,0,0,1,0,1,0,0
+HV19-118,15/10/2019,35.83,4 - ?characterise known epilepsy,0,1,1,0,2,0,0
+HV19-119,15/10/2019,59.33,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV19-120,15/10/2019,46.85,4 - ?characterise known epilepsy,1,1,1,0,0,0,0
+HV19-121,15/10/2019,7.21,5 - unclear/not specified,0,1,1,0,1,0,0
+HV19-122,15/10/2019,48.63,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-123,15/10/2019,1.92,1 - ?epilepsy (not otherwise specified),0,0,0,1,0,0,0
+HV19-124,15/10/2019,26.6,1 - ?epilepsy (not otherwise specified),0,1,1,0,1,0,0
+HV19-125,15/10/2019,14.27,2 -  ?focal epilepsy,0,1,1,1,0,0,0
+HV19-126,15/10/2019,2.15,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV19-127,15/10/2019,48.82,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV19-128,16/10/2019,22.08,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-129,16/10/2019,12.86,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV19-130,16/10/2019,15.45,4 - ?characterise known epilepsy,0,1,1,0,1,0,0
+HV19-131,16/10/2019,47.1,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-132,16/10/2019,7.85,1 - ?epilepsy (not otherwise specified),1,1,1,0,1,0,0
+HV19-133,16/10/2019,67.48,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-134,16/10/2019,4.65,1 - ?epilepsy (not otherwise specified),0,0,1,0,1,0,0
+HV19-135,16/10/2019,62.48,1 - ?epilepsy (not otherwise specified),1,0,1,0,0,0,0
+HV19-136,16/10/2019,44.11,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-137,16/10/2019,18.33,3 - ?generalised epilepsy,0,1,1,0,2,0,0
+HV19-138,16/10/2019,29.28,2 -  ?focal epilepsy,0,-,-,-,-,-,-
+HV19-139,16/10/2019,22.48,2 -  ?focal epilepsy,0,1,1,1,0,0,0
+HV19-140,16/10/2019,20.21,4 - ?characterise known epilepsy,0,1,1,0,1,0,0
+HV19-141,17/10/2019,65.25,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV19-142,17/10/2019,9.58,1 - ?epilepsy (not otherwise specified),0,1,1,0,2,1,0
+HV19-143,17/10/2019,23.26,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-144,17/10/2019,26.99,3 - ?generalised epilepsy,0,1,1,0,0,0,1
+HV19-145,17/10/2019,47.51,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-146,17/10/2019,22.96,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-147,17/10/2019,75.39,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-148,17/10/2019,24.22,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-149,17/10/2019,53.53,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV19-150,17/10/2019,30.78,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-151,17/10/2019,31.16,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-152,17/10/2019,34.15,1 - ?epilepsy (not otherwise specified),0,1,1,1,0,0,0
+HV19-153,17/10/2019,56.8,3 - ?generalised epilepsy,1,0,1,0,0,0,1
+HV19-154,17/10/2019,31.1,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-155,17/10/2019,32.05,1 - ?epilepsy (not otherwise specified),0,1,1,0,1,0,0
+HV19-156,18/10/2019,23.18,3 - ?generalised epilepsy,1,1,1,0,0,0,0
+HV19-157,18/10/2019,69.51,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV19-158,18/10/2019,0.94,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-159,18/10/2019,51.38,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-160,18/10/2019,62.61,4 - ?characterise known epilepsy,1,0,1,0,0,0,0
+HV19-161,18/10/2019,58.93,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-162,18/10/2019,17.3,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV19-163,18/10/2019,32.83,3 - ?generalised epilepsy,0,1,1,0,2,0,0
+HV19-164,18/10/2019,54.74,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-165,18/10/2019,52.41,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-166,18/10/2019,22.32,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-167,18/10/2019,76.55,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-168,21/10/2019,8.98,5 - unclear/not specified,0,1,1,0,0,0,0
+HV19-169,21/10/2019,11.56,3 - ?generalised epilepsy,1,1,1,0,1,0,0
+HV19-170,21/10/2019,19.58,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,1
+HV19-171,21/10/2019,1.1,1 - ?epilepsy (not otherwise specified),1,0,1,0,0,0,1
+HV19-172,21/10/2019,30.1,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-173,21/10/2019,33.39,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-174,21/10/2019,55.69,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-175,21/10/2019,38.48,2 -  ?focal epilepsy,0,1,1,1,1,0,0
+HV19-176,21/10/2019,94.96,1 - ?epilepsy (not otherwise specified),0,0,0,0,0,0,0
+HV19-177,21/10/2019,64.52,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-178,21/10/2019,3.23,3 - ?generalised epilepsy,1,1,1,0,0,0,0
+HV19-179,21/10/2019,27.6,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-180,21/10/2019,29.94,2 -  ?focal epilepsy,0,1,1,0,1,0,0
+HV19-181,21/10/2019,8.95,3 - ?generalised epilepsy,1,1,1,1,0,0,0
+HV19-182,22/10/2019,70.01,5 - unclear/not specified,0,0,1,0,1,0,0
+HV19-183,22/10/2019,23.54,3 - ?generalised epilepsy,0,1,1,0,0,0,0
+HV19-184,22/10/2019,0.98,1 - ?epilepsy (not otherwise specified),1,0,0,0,0,0,0
+HV19-185,22/10/2019,29.79,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-186,22/10/2019,66.62,2 -  ?focal epilepsy,0,0,1,0,1,0,0
+HV19-187,22/10/2019,43.3,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-188,22/10/2019,12.84,4 - ?characterise known epilepsy,0,1,1,0,1,0,0
+HV19-189,22/10/2019,82.06,5 - unclear/not specified,0,0,1,0,0,0,0
+HV19-190,22/10/2019,49.61,5 - unclear/not specified,0,0,1,0,1,0,0
+HV19-191,22/10/2019,2.78,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-192,22/10/2019,35.63,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-193,22/10/2019,43.08,4 - ?characterise known epilepsy,0,1,1,1,0,0,0
+HV19-194,22/10/2019,4.66,4 - ?characterise known epilepsy,0,1,1,0,0,0,0
+HV19-195,23/10/2019,62,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-196,23/10/2019,28.31,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-197,23/10/2019,25.82,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-198,23/10/2019,19.33,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-199,23/10/2019,26.23,5 - unclear/not specified,0,1,1,0,0,0,0
+HV19-200,23/10/2019,64.82,1 - ?epilepsy (not otherwise specified),1,0,1,0,0,0,0
+HV19-201,23/10/2019,72.66,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV19-202,23/10/2019,24.58,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-203,23/10/2019,17.74,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-204,23/10/2019,62.23,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-205,23/10/2019,30.14,1 - ?epilepsy (not otherwise specified),0,1,1,1,0,0,0
+HV19-206,23/10/2019,2.37,3 - ?generalised epilepsy,1,0,1,0,0,0,0
+HV19-207,24/10/2019,39.37,1 - ?epilepsy (not otherwise specified),0,0,1,0,1,0,0
+HV19-208,24/10/2019,48.49,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-209,24/10/2019,15.23,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV19-210,24/10/2019,44.12,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-211,24/10/2019,64.86,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-212,24/10/2019,77.91,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-213,24/10/2019,71.72,1 - ?epilepsy (not otherwise specified),0,0,1,0,1,0,0
+HV19-214,25/10/2019,6.76,1 - ?epilepsy (not otherwise specified),0,0,1,0,1,0,0
+HV19-215,25/10/2019,55.96,1 - ?epilepsy (not otherwise specified),0,0,1,0,1,0,0
+HV19-216,25/10/2019,36.53,2 -  ?focal epilepsy,1,1,1,0,0,0,0
+HV19-217,25/10/2019,71.77,6 - ?abnormal background,0,0,1,0,0,0,0
+HV19-218,25/10/2019,30.08,4 - ?characterise known epilepsy,0,1,1,0,1,0,0
+HV19-219,25/10/2019,25.93,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-220,25/10/2019,3.47,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-221,25/10/2019,44.44,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-222,25/10/2019,60.38,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV19-223,25/10/2019,48.18,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV19-224,25/10/2019,2,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-225,25/10/2019,73.83,4 - ?characterise known epilepsy,0,0,1,0,2,0,0
+HV19-226,25/10/2019,63.42,6 - ?abnormal background,0,0,1,0,0,0,0
+HV19-227,28/10/2019,27.44,3 - ?generalised epilepsy,0,1,1,0,2,0,0
+HV19-228,28/10/2019,52.53,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-229,28/10/2019,39.54,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-230,28/10/2019,10.55,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-231,28/10/2019,81.59,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-232,28/10/2019,59.66,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV19-233,28/10/2019,26.81,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-234,28/10/2019,5.23,3 - ?generalised epilepsy,1,1,1,0,0,0,1
+HV19-235,28/10/2019,61.02,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-236,28/10/2019,57.13,1 - ?epilepsy (not otherwise specified),1,0,1,0,1,0,0
+HV19-237,28/10/2019,16.26,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-238,28/10/2019,27.13,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV19-239,28/10/2019,5.99,2 -  ?focal epilepsy,1,1,1,0,0,0,0
+HV19-240,28/10/2019,30.38,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-241,29/10/2019,13.35,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV19-242,29/10/2019,17.91,3 - ?generalised epilepsy,0,1,1,0,0,0,0
+HV19-243,29/10/2019,31.93,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-244,29/10/2019,17.99,2 -  ?focal epilepsy,1,1,1,0,0,0,0
+HV19-245,29/10/2019,15.56,3 - ?generalised epilepsy,0,1,1,0,2,0,0
+HV19-246,29/10/2019,17.36,3 - ?generalised epilepsy,1,1,1,0,1,0,0
+HV19-247,29/10/2019,11.41,1 - ?epilepsy (not otherwise specified),0,1,1,0,1,0,0
+HV19-248,29/10/2019,36.91,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-249,29/10/2019,24.49,1 - ?epilepsy (not otherwise specified),0,1,1,0,1,0,0
+HV19-250,29/10/2019,31.35,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-251,29/10/2019,16.44,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-252,29/10/2019,0.36,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-253,30/10/2019,58.76,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-254,30/10/2019,0.6,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-255,30/10/2019,79.13,5 - unclear/not specified,0,0,1,1,0,0,0
+HV19-256,30/10/2019,16.73,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-257,30/10/2019,58.34,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV19-258,30/10/2019,46.18,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV19-259,30/10/2019,40.51,2 -  ?focal epilepsy,0,1,1,1,0,0,0
+HV19-260,30/10/2019,48.45,5 - unclear/not specified,0,1,1,0,1,0,0
+HV19-261,30/10/2019,54.9,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-262,30/10/2019,41.98,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV19-263,30/10/2019,30.82,5 - unclear/not specified,0,1,1,0,0,0,0
+HV19-264,30/10/2019,42.04,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-265,30/10/2019,18.61,1 - ?epilepsy (not otherwise specified),0,1,1,1,0,0,0
+HV19-266,30/10/2019,18.8,2 -  ?focal epilepsy,0,1,1,0,1,0,0
+HV19-267,31/10/2019,64.78,2 -  ?focal epilepsy,1,0,1,0,1,0,0
+HV19-268,31/10/2019,5.86,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-269,31/10/2019,5.84,1 - ?epilepsy (not otherwise specified),1,-,-,-,-,-,-
+HV19-270,31/10/2019,4.33,1 - ?epilepsy (not otherwise specified),1,1,1,0,1,0,0
+HV19-271,31/10/2019,15.19,2 -  ?focal epilepsy,0,1,1,0,1,0,0
+HV19-272,31/10/2019,46.51,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV19-273,31/10/2019,26.6,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-274,31/10/2019,46.69,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV19-275,31/10/2019,62.24,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV19-276,31/10/2019,22.15,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV19-277,31/10/2019,67.32,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV19-278,31/10/2019,60.27,2 -  ?focal epilepsy,1,0,1,1,0,0,0
+HV22-279,03/10/2022,1.41,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-280,03/10/2022,62.74,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-281,03/10/2022,33.68,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-282,03/10/2022,35.41,3 - ?generalised epilepsy,0,0,1,0,0,0,0
+HV22-283,03/10/2022,4.84,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-284,03/10/2022,28.75,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-285,03/10/2022,65.29,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-286,03/10/2022,67.86,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-287,03/10/2022,75.36,4 - ?characterise known epilepsy,0,0,1,1,1,0,0
+HV22-288,03/10/2022,35.89,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV22-289,03/10/2022,40.79,5 - unclear/not specified,0,0,0,0,0,0,0
+HV22-290,03/10/2022,27.64,3 - ?generalised epilepsy,0,0,1,0,2,0,0
+HV22-291,03/10/2022,31.68,3 - ?generalised epilepsy,0,0,1,0,0,0,1
+HV22-292,04/10/2022,17.61,4 - ?characterise known epilepsy,1,0,0,1,0,0,0
+HV22-293,04/10/2022,15.93,5 - unclear/not specified,0,0,1,0,0,0,0
+HV22-294,04/10/2022,56.88,5 - unclear/not specified,0,0,1,0,0,0,0
+HV22-295,04/10/2022,53.07,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-296,04/10/2022,62.92,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-297,04/10/2022,10.74,3 - ?generalised epilepsy,1,1,1,0,2,1,0
+HV22-298,04/10/2022,40.45,6 - ?abnormal background,0,0,0,0,0,0,0
+HV22-299,04/10/2022,2.43,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-300,04/10/2022,8.06,3 - ?generalised epilepsy,1,0,1,0,0,0,0
+HV22-301,04/10/2022,37.79,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-302,04/10/2022,46.29,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV22-303,04/10/2022,42.08,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-304,04/10/2022,64.8,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-305,04/10/2022,43.87,5 - unclear/not specified,0,0,1,0,0,0,0
+HV22-306,05/10/2022,58.78,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-307,05/10/2022,48.89,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-308,05/10/2022,1.18,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-309,05/10/2022,7.21,4 - ?characterise known epilepsy,0,0,1,0,2,0,0
+HV22-310,05/10/2022,9.97,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV22-311,05/10/2022,11.28,4 - ?characterise known epilepsy,1,1,1,0,1,0,0
+HV22-312,05/10/2022,1.07,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-313,05/10/2022,40.24,1 - ?epilepsy (not otherwise specified),0,0,1,0,1,0,0
+HV22-314,05/10/2022,30.24,4 - ?characterise known epilepsy,0,0,1,1,0,0,0
+HV22-315,05/10/2022,3.4,1 - ?epilepsy (not otherwise specified),0,0,1,0,1,0,0
+HV22-316,05/10/2022,11.21,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,1
+HV22-317,06/10/2022,52.25,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-318,06/10/2022,52.3,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV22-319,06/10/2022,26.15,5 - unclear/not specified,0,0,1,0,1,0,0
+HV22-320,06/10/2022,6.48,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-321,06/10/2022,47.24,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-322,06/10/2022,70.55,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV22-323,06/10/2022,0.78,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-324,06/10/2022,18.94,1 - ?epilepsy (not otherwise specified),1,0,1,0,0,0,0
+HV22-325,06/10/2022,41.78,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV22-326,06/10/2022,62.41,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV22-327,06/10/2022,12.32,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-328,06/10/2022,40.58,6 - ?abnormal background,0,0,1,1,0,0,0
+HV22-329,07/10/2022,1.73,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-330,07/10/2022,5.45,4 - ?characterise known epilepsy,0,0,1,1,1,1,0
+HV22-331,07/10/2022,5.58,3 - ?generalised epilepsy,1,0,1,0,1,0,0
+HV22-332,07/10/2022,47.89,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-333,07/10/2022,66.74,1 - ?epilepsy (not otherwise specified),0,0,1,0,1,0,0
+HV22-334,07/10/2022,41.62,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-335,07/10/2022,9.49,2 -  ?focal epilepsy,0,0,1,0,1,0,0
+HV22-336,07/10/2022,70.68,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-337,07/10/2022,45.19,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-338,07/10/2022,13.1,4 - ?characterise known epilepsy,0,0,1,1,0,0,0
+HV22-339,07/10/2022,0.6,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-340,10/10/2022,0.71,4 - ?characterise known epilepsy,0,0,1,0,1,0,0
+HV22-341,10/10/2022,3.69,3 - ?generalised epilepsy,1,-,-,-,-,-,-
+HV22-342,10/10/2022,74.53,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-343,10/10/2022,14.36,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-344,10/10/2022,46.46,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-345,10/10/2022,22.73,3 - ?generalised epilepsy,1,0,1,0,0,0,0
+HV22-346,10/10/2022,21.58,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-347,10/10/2022,51.18,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-348,10/10/2022,77.24,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-349,10/10/2022,23.54,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-350,10/10/2022,1.2,3 - ?generalised epilepsy,0,0,0,0,0,0,0
+HV22-351,10/10/2022,36.53,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-352,10/10/2022,12.77,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-353,10/10/2022,24.39,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-354,10/10/2022,33.97,5 - unclear/not specified,0,0,1,0,0,0,0
+HV22-355,11/10/2022,61.85,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-356,11/10/2022,34.19,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-357,11/10/2022,74.15,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-358,11/10/2022,56.54,5 - unclear/not specified,0,0,1,0,1,0,0
+HV22-359,11/10/2022,61.69,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-360,11/10/2022,25.17,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-361,11/10/2022,19.37,5 - unclear/not specified,0,0,1,0,0,0,0
+HV22-362,11/10/2022,28.48,4 - ?characterise known epilepsy,1,0,1,0,0,0,0
+HV22-363,11/10/2022,1.81,1 - ?epilepsy (not otherwise specified),1,0,1,0,0,0,1
+HV22-364,11/10/2022,26.74,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-365,11/10/2022,67.06,4 - ?characterise known epilepsy,0,0,1,1,1,0,0
+HV22-366,11/10/2022,21.68,2 -  ?focal epilepsy,0,0,0,0,0,0,0
+HV22-367,11/10/2022,5.6,3 - ?generalised epilepsy,1,0,1,0,0,0,0
+HV22-368,11/10/2022,23.59,1 - ?epilepsy (not otherwise specified),0,0,0,0,0,0,0
+HV22-369,12/10/2022,55.04,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-370,12/10/2022,4.77,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-371,12/10/2022,14.13,1 - ?epilepsy (not otherwise specified),0,0,1,0,2,0,0
+HV22-372,12/10/2022,38.7,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-373,12/10/2022,29.53,4 - ?characterise known epilepsy,0,0,1,0,2,0,0
+HV22-374,12/10/2022,14.27,1 - ?epilepsy (not otherwise specified),0,1,1,0,2,0,0
+HV22-375,12/10/2022,67.8,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-376,12/10/2022,53.44,2 -  ?focal epilepsy,0,0,1,0,0,0,1
+HV22-377,12/10/2022,16.07,1 - ?epilepsy (not otherwise specified),0,0,1,0,2,0,0
+HV22-378,12/10/2022,6.46,2 -  ?focal epilepsy,0,1,1,0,2,0,0
+HV22-379,12/10/2022,37.45,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-380,12/10/2022,17.45,3 - ?generalised epilepsy,1,0,1,0,2,0,0
+HV22-381,12/10/2022,23.89,5 - unclear/not specified,0,0,1,0,0,0,0
+HV22-382,12/10/2022,71.32,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-383,12/10/2022,57.96,2 -  ?focal epilepsy,0,0,1,0,1,0,0
+HV22-384,13/10/2022,10.31,2 -  ?focal epilepsy,0,0,1,0,1,0,0
+HV22-385,13/10/2022,58.81,4 - ?characterise known epilepsy,0,0,1,0,1,0,0
+HV22-386,13/10/2022,16.05,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-387,13/10/2022,26.42,3 - ?generalised epilepsy,1,0,1,0,1,0,0
+HV22-388,13/10/2022,12.76,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-389,13/10/2022,32.22,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-390,13/10/2022,14.51,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-391,13/10/2022,46.67,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-392,13/10/2022,33.45,2 -  ?focal epilepsy,0,0,1,0,1,0,0
+HV22-393,13/10/2022,52.29,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-394,13/10/2022,28.98,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-395,13/10/2022,68.51,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-396,13/10/2022,35.36,1 - ?epilepsy (not otherwise specified),1,0,1,0,0,0,0
+HV22-397,14/10/2022,33.44,1 - ?epilepsy (not otherwise specified),0,0,1,0,1,0,0
+HV22-398,14/10/2022,30.32,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-399,14/10/2022,36.46,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-400,14/10/2022,57.65,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-401,14/10/2022,34.98,5 - unclear/not specified,0,0,1,0,0,0,0
+HV22-402,14/10/2022,30.77,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-403,14/10/2022,53.97,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-404,14/10/2022,15.55,4 - ?characterise known epilepsy,1,0,1,0,0,0,0
+HV22-405,14/10/2022,61.23,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV22-406,15/10/2022,70.58,2 -  ?focal epilepsy,1,0,1,1,0,0,0
+HV22-407,15/10/2022,19.32,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-408,15/10/2022,81.84,2 -  ?focal epilepsy,0,0,1,1,1,0,0
+HV22-409,15/10/2022,37.81,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-410,17/10/2022,15.38,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-411,17/10/2022,74.26,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV22-412,17/10/2022,25.98,5 - unclear/not specified,0,1,1,0,0,0,0
+HV22-413,17/10/2022,2.54,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-414,17/10/2022,16.43,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-415,17/10/2022,11.2,4 - ?characterise known epilepsy,1,1,1,0,2,1,0
+HV22-416,17/10/2022,68.9,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-417,17/10/2022,37.69,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,1
+HV22-418,17/10/2022,27.48,6 - ?abnormal background,0,0,1,0,1,0,0
+HV22-419,17/10/2022,18.13,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV22-420,17/10/2022,19.44,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-421,17/10/2022,50.46,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-422,17/10/2022,70.19,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-423,17/10/2022,35.27,1 - ?epilepsy (not otherwise specified),0,0,0,1,2,0,0
+HV22-424,17/10/2022,28.76,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV22-425,17/10/2022,61.26,2 -  ?focal epilepsy,0,0,1,1,0,0,1
+HV22-426,18/10/2022,7.84,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-427,18/10/2022,46.43,5 - unclear/not specified,0,0,1,0,0,0,0
+HV22-428,18/10/2022,43.66,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-429,18/10/2022,61.08,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-430,18/10/2022,11.53,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV22-431,18/10/2022,14.27,5 - unclear/not specified,0,0,1,0,1,0,0
+HV22-432,18/10/2022,78.2,1 - ?epilepsy (not otherwise specified),1,0,1,0,0,0,0
+HV22-433,18/10/2022,38.17,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-434,18/10/2022,13.08,4 - ?characterise known epilepsy,0,0,1,0,1,0,0
+HV22-435,18/10/2022,16.24,5 - unclear/not specified,0,0,1,0,0,0,0
+HV22-436,18/10/2022,23.26,4 - ?characterise known epilepsy,0,1,1,0,1,0,0
+HV22-437,18/10/2022,29.88,4 - ?characterise known epilepsy,0,1,1,0,2,0,0
+HV22-438,18/10/2022,48.94,4 - ?characterise known epilepsy,0,0,1,1,0,0,0
+HV22-439,18/10/2022,10.77,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-440,18/10/2022,58.43,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV22-441,18/10/2022,46.44,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-442,19/10/2022,10.27,5 - unclear/not specified,0,1,1,0,1,0,0
+HV22-443,19/10/2022,68.45,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-444,19/10/2022,66.75,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-445,19/10/2022,40.02,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-446,19/10/2022,2.09,5 - unclear/not specified,0,1,1,0,0,0,0
+HV22-447,19/10/2022,21.13,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-448,19/10/2022,59.88,1 - ?epilepsy (not otherwise specified),1,0,1,0,0,0,0
+HV22-449,19/10/2022,61.59,1 - ?epilepsy (not otherwise specified),0,0,1,1,1,0,0
+HV22-450,19/10/2022,19.5,1 - ?epilepsy (not otherwise specified),0,1,1,0,1,0,0
+HV22-451,19/10/2022,78.05,2 -  ?focal epilepsy,1,0,1,0,0,0,0
+HV22-452,19/10/2022,7.29,1 - ?epilepsy (not otherwise specified),1,1,1,1,0,0,0
+HV22-453,19/10/2022,69.91,6 - ?abnormal background,0,0,0,1,0,0,0
+HV22-454,20/10/2022,51.84,5 - unclear/not specified,0,0,0,0,1,0,0
+HV22-455,20/10/2022,41.3,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-456,20/10/2022,11.39,3 - ?generalised epilepsy,1,1,1,0,0,0,0
+HV22-457,20/10/2022,33.26,1 - ?epilepsy (not otherwise specified),0,1,1,0,0,0,0
+HV22-458,20/10/2022,64.55,5 - unclear/not specified,0,0,1,0,0,0,0
+HV22-459,20/10/2022,63.74,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-460,20/10/2022,8.29,3 - ?generalised epilepsy,1,1,1,0,2,1,0
+HV22-461,20/10/2022,68.89,4 - ?characterise known epilepsy,0,0,0,1,0,0,0
+HV22-462,20/10/2022,34.17,3 - ?generalised epilepsy,0,0,1,0,0,0,0
+HV22-463,20/10/2022,75.87,2 -  ?focal epilepsy,1,0,1,0,1,0,0
+HV22-464,20/10/2022,63.57,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-465,20/10/2022,17.89,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-466,21/10/2022,67.08,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-467,21/10/2022,82,2 -  ?focal epilepsy,0,1,1,0,0,0,0
+HV22-468,21/10/2022,81.64,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV22-469,21/10/2022,23.08,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-470,21/10/2022,10.31,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-471,21/10/2022,43.59,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-472,21/10/2022,70.29,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-473,24/10/2022,69.01,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,1
+HV22-474,24/10/2022,7.57,4 - ?characterise known epilepsy,0,0,1,0,1,1,0
+HV22-475,24/10/2022,24.62,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-476,24/10/2022,49.51,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-477,24/10/2022,3.37,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-478,24/10/2022,17.49,1 - ?epilepsy (not otherwise specified),1,1,1,0,0,0,0
+HV22-479,24/10/2022,25.58,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-480,24/10/2022,23.02,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-481,24/10/2022,27.69,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-482,24/10/2022,4.74,3 - ?generalised epilepsy,1,1,1,0,2,1,0
+HV22-483,24/10/2022,87.88,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-484,24/10/2022,71.53,2 -  ?focal epilepsy,1,0,1,1,0,0,0
+HV22-485,25/10/2022,15.3,1 - ?epilepsy (not otherwise specified),1,0,1,0,0,0,0
+HV22-486,25/10/2022,80,2 -  ?focal epilepsy,1,0,1,0,0,0,0
+HV22-487,25/10/2022,3.86,5 - unclear/not specified,0,0,1,0,0,0,0
+HV22-488,25/10/2022,4.96,4 - ?characterise known epilepsy,0,0,1,0,1,0,0
+HV22-489,25/10/2022,24.24,4 - ?characterise known epilepsy,0,0,1,0,2,0,0
+HV22-490,25/10/2022,13.73,4 - ?characterise known epilepsy,1,1,1,1,0,0,0
+HV22-491,25/10/2022,64.68,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-492,25/10/2022,3.79,2 -  ?focal epilepsy,0,1,1,0,1,0,0
+HV22-493,25/10/2022,27.18,4 - ?characterise known epilepsy,0,1,1,0,0,0,0
+HV22-494,25/10/2022,74.86,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-495,25/10/2022,44.98,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,1
+HV22-496,25/10/2022,21.89,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-497,25/10/2022,42.29,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-498,26/10/2022,13.69,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-499,26/10/2022,19.36,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-500,26/10/2022,67.47,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-501,26/10/2022,63.18,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-502,26/10/2022,29.71,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-503,26/10/2022,6.93,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-504,26/10/2022,36.71,2 -  ?focal epilepsy,0,0,1,0,0,0,1
+HV22-505,26/10/2022,36.53,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-506,26/10/2022,63.28,1 - ?epilepsy (not otherwise specified),1,0,1,1,0,0,0
+HV22-507,26/10/2022,47.51,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-508,27/10/2022,44.36,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-509,27/10/2022,3.02,6 - ?abnormal background,0,0,1,1,1,0,0
+HV22-510,27/10/2022,75.21,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-511,27/10/2022,42.21,1 - ?epilepsy (not otherwise specified),0,0,1,1,0,0,0
+HV22-512,27/10/2022,32.43,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-513,27/10/2022,24.76,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-514,27/10/2022,59.73,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-515,27/10/2022,7.26,2 -  ?focal epilepsy,0,0,1,1,0,0,0
+HV22-516,27/10/2022,33.25,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-517,27/10/2022,19.63,3 - ?generalised epilepsy,1,1,1,0,0,0,0
+HV22-518,27/10/2022,12.09,4 - ?characterise known epilepsy,0,0,1,0,1,0,0
+HV22-519,27/10/2022,19.22,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-520,28/10/2022,45.48,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-521,28/10/2022,12.87,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-522,28/10/2022,73.46,1 - ?epilepsy (not otherwise specified),0,0,1,1,1,0,0
+HV22-523,28/10/2022,50.84,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-524,28/10/2022,34.72,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-525,28/10/2022,16.58,4 - ?characterise known epilepsy,0,0,1,0,1,0,0
+HV22-526,28/10/2022,82.51,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-527,28/10/2022,3.34,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-528,28/10/2022,6.58,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-529,28/10/2022,34.99,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-530,31/10/2022,61.53,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-531,31/10/2022,43.18,4 - ?characterise known epilepsy,0,0,1,0,0,0,1
+HV22-532,31/10/2022,54.91,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-533,31/10/2022,13.51,4 - ?characterise known epilepsy,0,1,1,0,1,0,0
+HV22-534,31/10/2022,17.66,2 -  ?focal epilepsy,0,0,1,0,0,0,0
+HV22-535,31/10/2022,42.98,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-536,31/10/2022,21.25,4 - ?characterise known epilepsy,0,-,-,-,-,-,-
+HV22-537,31/10/2022,24.56,4 - ?characterise known epilepsy,0,0,1,0,0,0,0
+HV22-538,31/10/2022,20.18,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-539,31/10/2022,38.64,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
+HV22-540,31/10/2022,27.03,1 - ?epilepsy (not otherwise specified),0,0,1,0,0,0,0
